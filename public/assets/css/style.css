@@ -216,6 +216,13 @@ body {
     font-style: normal;
     color: #1a0964;}
 
+#Daniela {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;
+    font-weight: 200;
+    color: peru;
+}
+
 header {
     background: #edf6f9;
     text-align: center;
